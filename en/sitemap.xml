@@ -8,7 +8,7 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="zh-cn"
+      hreflang="zh"
       href="https://localhost:1313/authors/"
     />
     <xhtml:link
@@ -23,7 +23,7 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="zh-cn"
+      hreflang="zh"
       href="https://localhost:1313/categories/"
     />
     <xhtml:link
@@ -38,7 +38,7 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="zh-cn"
+      hreflang="zh"
       href="https://localhost:1313/series/"
     />
     <xhtml:link
@@ -53,7 +53,7 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="zh-cn"
+      hreflang="zh"
       href="https://localhost:1313/tags/"
     />
     <xhtml:link
@@ -68,7 +68,7 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="zh-cn"
+      hreflang="zh"
       href="https://localhost:1313/"
     />
     <xhtml:link
