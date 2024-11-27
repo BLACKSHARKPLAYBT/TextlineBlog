@@ -3,70 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/tags/ai/</loc>
+    <loc>https://localhost:1313/tags/ai/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blogs/</loc>
+    <loc>https://localhost:1313/blogs/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/gpt-sovits/</loc>
+    <loc>https://localhost:1313/tags/gpt-sovits/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blogs/gpt-sovitswindows%E5%88%9D%E6%AC%A1%E4%BD%BF%E7%94%A8/</loc>
+    <loc>https://localhost:1313/blogs/gpt-sovitswindows%E5%88%9D%E6%AC%A1%E4%BD%BF%E7%94%A8/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://localhost:1313/tags/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://localhost:1313/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/test/</loc>
+    <loc>https://localhost:1313/tags/test/</loc>
     <lastmod>2024-11-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blogs/test/</loc>
+    <loc>https://localhost:1313/tags/unity/</loc>
     <lastmod>2024-11-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blogs/unity-%E4%B8%8B%E8%BD%BD%E4%B8%AD%E6%96%87%E6%A8%A1%E5%9D%97/</loc>
+    <loc>https://localhost:1313/blogs/unity-%E4%B8%8B%E8%BD%BD%E4%B8%AD%E6%96%87%E6%A8%A1%E5%9D%97/</loc>
+    <lastmod>2024-11-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://localhost:1313/blogs/test/</loc>
+    <lastmod>2024-11-19T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://localhost:1313/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://localhost:1313/categories/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
