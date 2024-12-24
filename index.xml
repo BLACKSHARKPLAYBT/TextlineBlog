@@ -9,7 +9,812 @@
     <managingEditor>blacksharkplaybt@gmail.com (Textline)</managingEditor>
     <webMaster>blacksharkplaybt@gmail.com (Textline)</webMaster>
     <copyright>© 2024 Textline</copyright>
-    <lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python 复习笔记</title>
+      <link>https://localhost:1313/blogs/python-%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <author>blacksharkplaybt@gmail.com (Textline)</author>
+      <guid>https://localhost:1313/blogs/python-%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Python 复习笔记 
+    &lt;div id=&#34;python-%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#python-%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;列表&lt;/strong&gt; 
+    &lt;div id=&#34;%E5%88%97%E8%A1%A8&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%88%97%E8%A1%A8&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;
+  &lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://s21.ax1x.com/2024/12/24/pAjNDxS.png&#34; alt=&#34;image-20241224200030309&#34; /&gt;
+    
+  &lt;/figure&gt;
+&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Python复习粗略带过</title>
+      <link>https://localhost:1313/blogs/python%E5%A4%8D%E4%B9%A0%E7%B2%97%E7%95%A5%E5%B8%A6%E8%BF%87/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <author>blacksharkplaybt@gmail.com (Textline)</author>
+      <guid>https://localhost:1313/blogs/python%E5%A4%8D%E4%B9%A0%E7%B2%97%E7%95%A5%E5%B8%A6%E8%BF%87/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Python复习粗略带过 
+    &lt;div id=&#34;python%E5%A4%8D%E4%B9%A0%E7%B2%97%E7%95%A5%E5%B8%A6%E8%BF%87&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#python%E5%A4%8D%E4%B9%A0%E7%B2%97%E7%95%A5%E5%B8%A6%E8%BF%87&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;列表 
+    &lt;div id=&#34;%E5%88%97%E8%A1%A8&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%88%97%E8%A1%A8&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;编号&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;使用方式&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;作用&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;列表.append(元素)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;向列表中追加一个元素&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;列表.extend(容器)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;将数据容器的内容依次取出，追加到列表尾部&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;列表.insert(下标, 元素)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;在指定下标处，插入指定的元素&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;del 列表[下标]&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;删除列表指定下标元素&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;列表.pop(下标)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;删除列表指定下标元素&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;列表.remove(元素)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;从前向后，删除此元素第一个匹配项&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;7&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;列表.clear()&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;清空列表&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;8&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;列表.count(元素)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;统计此元素在列表中出现的次数&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;9&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;列表.index(元素)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;查找指定元素在列表的下标  找不到报错ValueError&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;10&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;len(列表)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;统计容器内有多少元素&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;元组&lt;/strong&gt; 
+    &lt;div id=&#34;%E5%85%83%E7%BB%84&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%85%83%E7%BB%84&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;编号&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;方法&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;作用&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;index()&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;查找某个数据，如果数据存在返回对应的下标，否则报错&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;count()&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;统计某个数据在当前元组出现的次数&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;len(元组)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;统计元组内的元素个数&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;del 元组&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;删除元组&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;集合 
+    &lt;div id=&#34;%E9%9B%86%E5%90%88&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E9%9B%86%E5%90%88&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;编号&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;操作&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;说明&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;集合.add(元素)、集合.update(元素)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;集合内添加一个元素；添加多个，依次添加&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;集合.remove(元素)、集合.discard(元素)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;移除集合内指定的元素&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;集合.pop()&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;从集合中随机取出一个元素&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;集合.clear()、del 集合&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;将集合清空&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;集合1.difference(集合2)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;得到一个新集合，内含2个集合的差集  原有的2个集合内容不变&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;集合1.difference_update(集合2)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;在集合1中，删除集合2中存在的元素  集合1被修改，集合2不变&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;7&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;集合1.union(集合2)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;得到1个新集合，内含2个集合的全部元素  原有的2个集合内容不变&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;8&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;len(集合)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;得到一个整数，记录了集合的元素数量&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;字典 
+    &lt;div id=&#34;%E5%AD%97%E5%85%B8&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%AD%97%E5%85%B8&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;编号&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;操作&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;说明&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;字典[Key]；&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;获取指定Key对应的Value值&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;字典.update(key1:value,key2:value,……)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;将另一个键值对的一次性添加到当前字典对象中&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;字典[Key] = Value&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;添加或更新键值对&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;字典.pop(Key)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;取出Key对应的Value并在字典内删除此Key的键值对&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;字典.clear()&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;清空字典&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;字典.keys()&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;获取字典的全部Key，可用于for循环遍历字典&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;7&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;len(字典)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;计算字典内的元素数量&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;字符串 
+    &lt;div id=&#34;%E5%AD%97%E7%AC%A6%E4%B8%B2&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%AD%97%E7%AC%A6%E4%B8%B2&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;方法名称&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;说&lt;/strong&gt;  &lt;strong&gt;明&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;方法名称&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;说&lt;/strong&gt;  &lt;strong&gt;明&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;find( )&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;查找字符串首次出现位置&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;split( )&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;以指定字符为分隔符分割字符串&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;rfind( )&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;查找字符串最后出现位置&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;rsplit( )&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;从右端分割字符串&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;index( )&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;返回字符串首次出现位置&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;partition( )&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;分割字符串为3部分&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;rindex( )&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;返回字符串最后出现位置&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;rpartition( )&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;从右端分割字符串为3部分&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;count( )&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;返回字符串出现次数&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;join( )&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;与split相反&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;lower( )&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;转换为小写&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;replace( )&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;替换字符或字符串&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;upper( )&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;转换为大写&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;maketrans( )&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;生成字符映射表&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;capitalize( )&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;首字母转换为大写&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;translate( )&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;按映射表转换字符串并替换&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;title( )&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;字符串每个单词首字母转换为大写&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;strip( )&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;删除两端空格或连续指定字符&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;swapcase( )&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;大小写互换&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;rstrip( )&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;删除右端空格或连续指定字符&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;startswith&lt;/strong&gt; &lt;strong&gt;( )&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;判断是否以指定字符串开始&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;lstrip( )&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;删除左端空格或连续指定字符&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;endswith&lt;/strong&gt; &lt;strong&gt;( )&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;判断是否以指定字符串结束&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;islower( )&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;判断是否是小写字母&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;isalnum&lt;/strong&gt; &lt;strong&gt;( )&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;判断是否为数字或字母&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;center( )&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;返回指定宽度、原串居中的新串&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;isalpha&lt;/strong&gt; &lt;strong&gt;( )&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;判断是否为字母&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;ljust( )&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;返回指定宽度、原串居左的新串&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;isdigit( )&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;判断是否是数字&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;rjust( )&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;返回指定宽度、原串居右的新串&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;isspace&lt;/strong&gt; &lt;strong&gt;( )&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;判断是否是空格&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;eval( )&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;字符串转化为数值&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;compress()&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;压缩&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;decompress()&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;解压缩&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;容器通用功能总览&lt;/strong&gt; 
+    &lt;div id=&#34;%E5%AE%B9%E5%99%A8%E9%80%9A%E7%94%A8%E5%8A%9F%E8%83%BD%E6%80%BB%E8%A7%88&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%AE%B9%E5%99%A8%E9%80%9A%E7%94%A8%E5%8A%9F%E8%83%BD%E6%80%BB%E8%A7%88&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;功能&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;描述&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;通用for循环&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;遍历容器（字典是遍历key）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;max&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;容器内最大元素&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;min()&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;容器内最小元素&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;len()&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;容器元素个数&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;list()&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;转换为列表&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;tuple()&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;转换为元组&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;str()&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;转换为字符串&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;set()&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;转换为集合&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;sorted(序列, [reverse=True])&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;排序，reverse=True表示降序  得到一个排好序的列表&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;正则表达式的基本语法&lt;/strong&gt; 
+    &lt;div id=&#34;%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;元字符&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;功&lt;/strong&gt;  &lt;strong&gt;能&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;示例&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;•&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;匹配任意字符（不包括换行符（\n）），.匹配点本身&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;f.r：匹配在字母’f’、’r’之间的任意一个字符。如fur、far、for。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;*****&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;匹配0次或多次前面出现字符或子模式。&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;‘fo*’匹配”food”中”foo”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;+&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;匹配1次或多次前面出现子符或子模块，如([a-z]+.com)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;‘zo+’ 能匹配 ‘zo’ 以及 ‘zoo’&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;-&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;用在[ ]之内用来表示范围。&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;[0-9]、[a-z]、[A-Z]&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;|&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;匹配位于|之前或之后的字符。&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Python|Pearl或P(ython|erl)：匹配’Python’或’Pearl’&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;^&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;匹配行首，匹配以^后面的字符开头的字符串。&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;^http：匹配http://www.sohu.com&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;$&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;匹配行尾，匹配以$之前的字符结束的字符串。&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;‘t$’并不会匹配  “eater”中的  ‘t’,但是会匹配  ‘eat’ 中的  ‘t’.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;?&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;匹配位于“?”之前的0次或1次前面出现的正则表达式。&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;‘do(es)?’ 可以匹配 ‘do’或 ‘does’ 中的’do’ 。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;*&lt;em&gt;*&lt;/em&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;转义字符&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;\num&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;num为正整数。&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;‘(.)\1’匹配两个连续的相同字符&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;\f&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;匹配换页符&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;\n&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;匹配换行符&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;\r&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;匹配回车符&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;元字符&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;功&lt;/strong&gt;  &lt;strong&gt;能&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;\b&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;匹配单词头或单词尾&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;‘er\b’ 可以匹配’never’ 中的 ‘er’，但不能匹配 “verb”中的 ‘er’。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;\B&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;与\b含义相反，不匹配单词头或尾&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;‘er\B’ 能匹配 “verb” 中的 ‘er’，但不能匹配 “never” 中的 ‘er’。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;\d&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;匹配任何数字，相当于[0-9]&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;‘\d’能匹配“20大数据专业”中的’20’&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;\D&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;与\d含义相反，相当于[^0-9]，即不包括0-9之间数字  ，^在中括号里与前面“^在字符串首”的含义不同&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;‘\D’能匹配“20大数据专业”中的“大数据专业”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;\s&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;匹配任何空白字符，包括空格、制表符、换页符，相当于[\f\n\r\t\v]&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;‘\s’能匹配  “python word” 中的“word”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;\S&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;与\s含义相反，相当于[^\f\n\r\t\v]，即不包括空格、制表符、换页符等&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;‘\S’能匹配  “python word”中“python”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;\w&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;匹配任何字母、数字以及下划线，相当于[a-zA-z0-9]&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;‘\w’能匹配  “python”中的’p’、’y’、’t’、’h’、’o’、’n’&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;\W&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;与\w含义相反，与[^a-zA-z0-9]等效，即除去a-zA-z0-9之外的字符&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;‘\W’能匹配  “python#”中的’#’&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;( )&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;将位于括号内内容作为一个整体来对待&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;(.)\1+：匹配二次或多次连续重复出现的任意字符&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;{&lt;/strong&gt; &lt;strong&gt;m,n&lt;/strong&gt;**}**&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;至少重复m次，最多重复n次{ }前面的字符（串）或子模式(….)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&amp;ldquo;o{1,3}&amp;rdquo; 将匹配  &amp;ldquo;fooooood&amp;rdquo; 中的前三个 o&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;[ ]&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;匹配位于[ ]中的任意一个字符&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;[PIW]ython：匹配’Python’、’Iython’或’Wython’&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;[^xyz]&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;反向字符集，匹配除x,y,z之外的任意字符&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;[^abc]：匹配一个除’a’、’b’和’c’之外的任意字符&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;[a-z]&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;字符范围，匹配任意小写英文字符&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;[a-z]匹配“python3”中的’p’、’y’、’t’、’h’、’o’、’n’&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;[^a-z]&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;反向范围字符，匹配除小写英文字母之外的任意字符&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;[^a-z]匹配“python3”中的‘3’&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;re&lt;/strong&gt; &lt;strong&gt;模块常用的方法&lt;/strong&gt; 
+    &lt;div id=&#34;re-%E6%A8%A1%E5%9D%97%E5%B8%B8%E7%94%A8%E7%9A%84%E6%96%B9%E6%B3%95&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#re-%E6%A8%A1%E5%9D%97%E5%B8%B8%E7%94%A8%E7%9A%84%E6%96%B9%E6%B3%95&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;方&lt;/strong&gt;    &lt;strong&gt;法&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;功&lt;/strong&gt;    &lt;strong&gt;能&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;compile(pattern[,flags])&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;创建模式对象&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;search(&lt;/strong&gt; &lt;strong&gt;pattern,string&lt;/strong&gt; &lt;strong&gt;[,flags])&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;在整字符串中寻找模式，返回match对象或None&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;match(&lt;/strong&gt; &lt;strong&gt;pattern,string&lt;/strong&gt; &lt;strong&gt;[,flags])&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;从字符串首端匹配模式，返回match对象或None&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;findall&lt;/strong&gt; &lt;strong&gt;(&lt;/strong&gt; &lt;strong&gt;pattern,string&lt;/strong&gt; &lt;strong&gt;[,flags])&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;返回字符串中模式的所有匹配项的列表&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;finditer&lt;/strong&gt; &lt;strong&gt;(&lt;/strong&gt; &lt;strong&gt;pattern,string&lt;/strong&gt; &lt;strong&gt;[,flags])&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;与findall()函数相同，但返回的不是一个列表，而是一个迭代器。对于每一次匹配，迭代器都返回一个匹配对象&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;split(&lt;/strong&gt; &lt;strong&gt;pattern,string&lt;/strong&gt; &lt;strong&gt;[,&lt;/strong&gt; &lt;strong&gt;maxsplit&lt;/strong&gt; &lt;strong&gt;=0])&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;根据正则表达式的模式分隔符，split函数将字符串分割为列表，然后返回成功匹配的列表，分隔最多操作max次（默认分割所有匹配成功的位置）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;sub(&lt;/strong&gt; &lt;strong&gt;pattern,repl,string&lt;/strong&gt; &lt;strong&gt;[,count=0])&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;使用repl替换所有正则表达式的模式在字符串中出现的位置，除非定义了count，否则就将替换所有出现的位置&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;subn&lt;/strong&gt; &lt;strong&gt;(&lt;/strong&gt; &lt;strong&gt;pattern,repl,string&lt;/strong&gt; &lt;strong&gt;)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;使用repl替换所有正则表达式的模式在字符串中出现的次数&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;escape(string)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;将字符串中所有特殊正则表达式字符转义&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;purge()&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;清除隐式编译的正则表达式模式&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;group(&lt;/strong&gt; &lt;strong&gt;num&lt;/strong&gt; &lt;strong&gt;=0)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;返回整个匹配对象，或者编号为num的特定子组&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;groups(default=None)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;返回一个包含所有匹配子组的元组（如果没有成功匹配，则返回一个空元组）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;groupdict&lt;/strong&gt; &lt;strong&gt;(default=None)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;返回一个包含所有匹配的命名子组的字典，所有的子组名称作为字典的键（如果没有成功匹配，则返回一个空字典）&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;参数&lt;/strong&gt; &lt;strong&gt;flags&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;功&lt;/strong&gt;  &lt;strong&gt;能&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;re.I&lt;/strong&gt; &lt;strong&gt;、&lt;/strong&gt; &lt;strong&gt;re.IGNORECASE&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;忽略大小写的匹配&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;re.L&lt;/strong&gt; &lt;strong&gt;、&lt;/strong&gt; &lt;strong&gt;re.LOCALE&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;根据所使用的本地语言环境通过\w、\W、\b、\B、\s、\S实现匹配&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;re.&lt;/strong&gt; &lt;strong&gt;U&lt;/strong&gt; &lt;strong&gt;、&lt;/strong&gt; &lt;strong&gt;re.UNICODE&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;根据全球统一的Unicode字符集解析字符影响\w, \W, \b, \B的含义&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;re.&lt;/strong&gt; &lt;strong&gt;S&lt;/strong&gt; &lt;strong&gt;、&lt;/strong&gt; &lt;strong&gt;re.DOTALL&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;使  . 匹配包括换行在内的所有字符，影响 ^ 和  $&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;re.M&lt;/strong&gt; &lt;strong&gt;、&lt;/strong&gt; &lt;strong&gt;re.MULTILINE&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;多行匹配，影响  ^ 和  $&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;re.X&lt;/strong&gt; &lt;strong&gt;、&lt;/strong&gt; &lt;strong&gt;re.VERBOSE&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;这个选项忽略规则表达式中的空白和注释，并允许使用 ’#’ 来引导一个注释。这样可以让你把规则写得更美观些。&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;文件 
+    &lt;div id=&#34;%E6%96%87%E4%BB%B6&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E6%96%87%E4%BB%B6&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;操作&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;功能&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;文件对象  = open(file, mode, encoding)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;打开文件获得文件对象&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;文件对象.read(num)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;读取指定长度字节  不指定num读取文件全部&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;文件对象.readline()&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;读取一行&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;文件对象.readlines()&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;读取全部行，得到列表&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;for 临时变量 in 文件对象&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;for循环文件行，一次循环得到一行数据&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;文件对象.close()&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;关闭文件对象&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;with open() as f&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;通过with  open语法打开文件，可以自动关闭&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;mode&lt;/strong&gt; &lt;strong&gt;常用的三种基础访问模式&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>GPT-SoVITS（windows）初次使用</title>
       <link>https://localhost:1313/blogs/gpt-sovitswindows%E5%88%9D%E6%AC%A1%E4%BD%BF%E7%94%A8/</link>
