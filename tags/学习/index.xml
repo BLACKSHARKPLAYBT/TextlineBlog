@@ -511,7 +511,7 @@
           &lt;td style=&#34;text-align: left&#34;&gt;f.r：匹配在字母’f’、’r’之间的任意一个字符。如fur、far、for。&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;** * **&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;*&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;匹配0次或多次前面出现字符或子模式。&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;‘fo*’匹配”food”中”foo”&lt;/td&gt;
       &lt;/tr&gt;
@@ -546,7 +546,7 @@
           &lt;td style=&#34;text-align: left&#34;&gt;‘do(es)?’ 可以匹配 ‘do’或 ‘does’ 中的’do’ 。&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;*&lt;em&gt;*&lt;/em&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;\&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;转义字符&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
