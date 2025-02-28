@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Textline博客</title>
-    <link>https://localhost:1313/tags/python/</link>
+    <link>http://localhost:1313/tags/python/</link>
     <description>Recent content in Python on Textline博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>blacksharkplaybt@gmail.com (Textline)</managingEditor>
     <webMaster>blacksharkplaybt@gmail.com (Textline)</webMaster>
-    <copyright>© 2024 Textline</copyright>
-    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Textline</copyright>
+    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python 复习笔记</title>
-      <link>https://localhost:1313/blogs/python-%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+      <link>http://localhost:1313/blogs/2025/python-%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
       <author>blacksharkplaybt@gmail.com (Textline)</author>
-      <guid>https://localhost:1313/blogs/python-%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
+      <guid>http://localhost:1313/blogs/2025/python-%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Python 复习笔记 
     &lt;div id=&#34;python-%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -49,10 +49,10 @@
     
     <item>
       <title>Python复习粗略带过</title>
-      <link>https://localhost:1313/blogs/python%E5%A4%8D%E4%B9%A0%E7%B2%97%E7%95%A5%E5%B8%A6%E8%BF%87/</link>
+      <link>http://localhost:1313/blogs/2025/python%E5%A4%8D%E4%B9%A0%E7%B2%97%E7%95%A5%E5%B8%A6%E8%BF%87/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
       <author>blacksharkplaybt@gmail.com (Textline)</author>
-      <guid>https://localhost:1313/blogs/python%E5%A4%8D%E4%B9%A0%E7%B2%97%E7%95%A5%E5%B8%A6%E8%BF%87/</guid>
+      <guid>http://localhost:1313/blogs/2025/python%E5%A4%8D%E4%B9%A0%E7%B2%97%E7%95%A5%E5%B8%A6%E8%BF%87/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Python复习粗略带过 
     &lt;div id=&#34;python%E5%A4%8D%E4%B9%A0%E7%B2%97%E7%95%A5%E5%B8%A6%E8%BF%87&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
