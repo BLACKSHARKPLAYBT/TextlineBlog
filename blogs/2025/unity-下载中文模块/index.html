@@ -1444,6 +1444,93 @@
 
 
     
+    
+    <div class="pt-3">
+      <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
+      <div class="pt-3">
+        <br/>
+<span style="color:rgba(var(--color-neutral-400),var(--tw-text-opacity));">
+    <span class="post-meta-item-text" >&nbsp;&nbsp;文章阅读量:  </span>
+    <span class="waline-pageview-count">⏳</span><div></div><br/>
+</span>
+<script type="text/javascript">
+      document.getElementByClassName("aline-pageview-count")[0].data-path = window.location.pathname;
+</script>
+<script src='//unpkg.com/@waline/client@v2/dist/waline.js'></script>
+<link href='//unpkg.com/@waline/client@v2/dist/waline.css' rel='stylesheet' />
+<div id="vcomments"></div>
+  <script>
+    if (""=="zh-CN") {
+                    Waline.init({
+            el: '#vcomments',
+           serverURL: 'https://waline.textline.top',
+           emoji: ['https://gcore.jsdelivr.net/gh/BLACKSHARKPLAYBT/Waline-Emoji@v1.0.4/xiaoheihe','https://gcore.jsdelivr.net/gh/BLACKSHARKPLAYBT/Waline-Emoji@v1.0.4/heniang'],
+           meta:['名称', '邮箱'],,
+           pageview: true,
+           reaction: false,
+           lang: "zh-CN",
+           locale: {
+          reactionTitle: '•畅所欲言——这里是开放区•',
+          comment: '留言板',
+          placeholder: '点击下方登录后再评论，会有惊喜哦~',
+          gifSearchPlaceholder: '搜索表情包...',
+          admin: '作者',
+          sofa: '还没有人评论，快来抢沙发吧',
+          anonymous: '匿名者'
+        }
+          });
+
+    } 
+    else {
+                Waline.init({
+            el: '#vcomments',
+           serverURL: 'https://waline.textline.top',
+           emoji: ['https://gcore.jsdelivr.net/gh/BLACKSHARKPLAYBT/Waline-Emoji@v1.0.4/xiaoheihe','https://gcore.jsdelivr.net/gh/BLACKSHARKPLAYBT/Waline-Emoji@v1.0.4/heniang'],
+           meta:['名称', '邮箱'],
+           pageview: true,
+           reaction: false,
+           search: false,
+           lang:"",
+           locale: {
+          reactionTitle: '•畅所欲言——这里是开放区•',
+          comment: '留言板',
+          placeholder: '点击下方登录后再评论，会有惊喜哦~',
+          gifSearchPlaceholder: '搜索表情包...',
+          admin: '作者',
+          sofa: '还没有人评论，快来抢沙发吧',
+          anonymous: '匿名者',
+          login: '登录',
+          submit:  '提交'
+           }
+        });
+
+    }
+  document.getElementsByClassName('wl-power')[0].style.display = 'none';
+      document.querySelector(".wl-actions a").style.display = 'none'
+  </script>
+  <style type="text/css">
+    :root{
+      --waline-color: var(--tw-prose-quotes);
+      --waline-info-color: var(--tw-prose-quotes);
+      --waline-info-bgcolor: var(--tw-ring-color);
+      --waline-theme-color: rgba(var(--color-primary-400));
+      --waline-bgcolor: transparent;
+      --waline-border-color: #747474;
+    }
+    .wl-editor:focus, .wl-input:focus {
+    background: transparent;
+        }
+    .wl-editor,.wl-input{
+      max-width:88%;
+    }
+    .wl-reaction-item.active .wl-reaction-votes {
+    color: white;
+    }
+  </style>
+      </div>
+    </div>
+    
+    
   </footer>
 </article>
 
