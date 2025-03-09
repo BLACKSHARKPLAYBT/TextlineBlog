@@ -3,20 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/tags/ai/</loc>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/blogs/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/gpt-sovits/</loc>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blogs/gpt-sovits%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E5%88%AB%E4%BA%BA%E7%9A%84%E6%A8%A1%E5%9E%8B/</loc>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -77,18 +95,6 @@
   <url>
     <loc>http://localhost:1313/tags/%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/ai/</loc>
-    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/gpt-sovits/</loc>
-    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
