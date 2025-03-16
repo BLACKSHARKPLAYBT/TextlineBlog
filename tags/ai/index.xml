@@ -43,6 +43,50 @@
     </item>
     
     <item>
+      <title>RVC如何使用别人的模型</title>
+      <link>http://localhost:1313/blogs/rvc%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E5%88%AB%E4%BA%BA%E7%9A%84%E6%A8%A1%E5%9E%8B/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <author>blacksharkplaybt@gmail.com (Textline)</author>
+      <guid>http://localhost:1313/blogs/rvc%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E5%88%AB%E4%BA%BA%E7%9A%84%E6%A8%A1%E5%9E%8B/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;RVC如何使用别人的模型 
+    &lt;div id=&#34;rvc%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E5%88%AB%E4%BA%BA%E7%9A%84%E6%A8%A1%E5%9E%8B&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#rvc%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E5%88%AB%E4%BA%BA%E7%9A%84%E6%A8%A1%E5%9E%8B&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;准备 
+    &lt;div id=&#34;%E5%87%86%E5%A4%87&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%87%86%E5%A4%87&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;安装模型 
+    &lt;div id=&#34;%E5%AE%89%E8%A3%85%E6%A8%A1%E5%9E%8B&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%AE%89%E8%A3%85%E6%A8%A1%E5%9E%8B&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;.\assets\weights    .pth&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>GPT-SoVITS（windows）初次使用</title>
       <link>http://localhost:1313/blogs/2025/gpt-sovitswindows%E5%88%9D%E6%AC%A1%E4%BD%BF%E7%94%A8/</link>
       <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>

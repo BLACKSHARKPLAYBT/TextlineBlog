@@ -9,7 +9,37 @@
     <managingEditor>blacksharkplaybt@gmail.com (Textline)</managingEditor>
     <webMaster>blacksharkplaybt@gmail.com (Textline)</webMaster>
     <copyright>© 2025 Textline</copyright>
-    <lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android</title>
+      <link>http://localhost:1313/tags/android/</link>
+      <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
+      <author>blacksharkplaybt@gmail.com (Textline)</author>
+      <guid>http://localhost:1313/tags/android/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SVG</title>
+      <link>http://localhost:1313/tags/svg/</link>
+      <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
+      <author>blacksharkplaybt@gmail.com (Textline)</author>
+      <guid>http://localhost:1313/tags/svg/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>XML</title>
+      <link>http://localhost:1313/tags/xml/</link>
+      <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
+      <author>blacksharkplaybt@gmail.com (Textline)</author>
+      <guid>http://localhost:1313/tags/xml/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Serv00</title>
       <link>http://localhost:1313/tags/serv00/</link>
@@ -46,6 +76,16 @@
       <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
       <author>blacksharkplaybt@gmail.com (Textline)</author>
       <guid>http://localhost:1313/tags/gpt-sovits/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>RVC</title>
+      <link>http://localhost:1313/tags/rvc/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <author>blacksharkplaybt@gmail.com (Textline)</author>
+      <guid>http://localhost:1313/tags/rvc/</guid>
       <description></description>
       
     </item>
