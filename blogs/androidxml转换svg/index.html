@@ -954,6 +954,7 @@
     <li><a href="#前提">前提</a></li>
     <li><a href="#例子">例子</a></li>
     <li><a href="#对应格式">对应格式</a></li>
+    <li><a href="#多path标签情况">多Path标签情况</a></li>
   </ul>
 </nav>
   </div>
@@ -970,6 +971,7 @@
     <li><a href="#前提">前提</a></li>
     <li><a href="#例子">例子</a></li>
     <li><a href="#对应格式">对应格式</a></li>
+    <li><a href="#多path标签情况">多Path标签情况</a></li>
   </ul>
 </nav>
   </div>
@@ -1145,6 +1147,41 @@
     
   </figure>
 </p>
+
+
+<h2 class="relative group">多Path标签情况 
+    <div id="%E5%A4%9Apath%E6%A0%87%E7%AD%BE%E6%83%85%E5%86%B5" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E5%A4%9Apath%E6%A0%87%E7%AD%BE%E6%83%85%E5%86%B5" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+<pre tabindex="0"><code>&lt;?xml version=&#34;1.0&#34; encoding=&#34;utf-8&#34;?&gt;
+&lt;vector xmlns:android=&#34;http://schemas.android.com/apk/res/android&#34;
+    android:height=&#34;16dp&#34;
+    android:width=&#34;16dp&#34;
+    android:viewportWidth=&#34;16.0&#34;
+    android:viewportHeight=&#34;16.0&#34;&gt;
+    &lt;group&gt;
+        &lt;clip-path android:pathData=&#34;M0,0h16v16h-16z&#34; /&gt;
+        &lt;path
+            android:fillColor=&#34;#FF1A1C1E&#34;
+            android:pathData=&#34;M0.44,4.978C0.44,2.896 2.036,1.163 4.111,0.991L7.947,0.674C8.961,0.59 9.911,0.89 10.662,1.449C12.583,1.775 14.248,2.768 15.204,4.351C17.123,7.531 15.454,11.891 11.475,14.088C7.497,16.286 2.715,15.489 0.796,12.309C-0.159,10.726 -0.225,8.85 0.44,7.095V4.978ZM1.642,5.003C1.642,3.62 2.7,2.466 4.078,2.347L7.716,2.031C9.273,1.896 10.613,3.124 10.613,4.688V5.716L12.169,6.564C12.474,6.73 12.48,7.164 12.18,7.339L10.613,8.25V9.186C10.613,10.794 9.2,12.036 7.606,11.831L3.968,11.363C2.638,11.191 1.642,10.059 1.642,8.718V5.003Z&#34;
+            android:fillType=&#34;evenOdd&#34; /&gt;
+        &lt;path
+            android:fillColor=&#34;#FF1A1C1E&#34;
+            android:pathData=&#34;M3.029,4.801C3.029,5.258 3.411,5.623 3.868,5.601L6.887,5.46C7.67,5.423 8.285,4.778 8.285,3.995C8.285,3.883 8.192,3.794 8.08,3.799L3.793,4.001C3.366,4.021 3.029,4.373 3.029,4.801Z&#34; /&gt;
+        &lt;path
+            android:fillColor=&#34;#FF1A1C1E&#34;
+            android:pathData=&#34;M3.029,7.612C3.029,8.069 3.412,8.434 3.87,8.412L5.301,8.341C6.083,8.302 6.698,7.657 6.698,6.874C6.698,6.762 6.604,6.673 6.492,6.678L3.791,6.811C3.364,6.832 3.029,7.184 3.029,7.612Z&#34; /&gt;
+    &lt;/group&gt;
+&lt;/vector&gt;
+</code></pre><p>将<code>group</code>换为g</p>
+<p><code>&lt;clip-path android:pathData=&quot;M0,0h16v16h-16z&quot; /&gt;</code>转化至g标签属性</p>
+<p><code>&lt;g clip-path=&quot;M0,0h16v16h-16z&quot; &gt;&lt;/g&gt;</code></p>
 
           
           
